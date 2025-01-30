@@ -14,7 +14,7 @@ A **simple yet powerful Todo app** built with **Flutter** and **Bloc** for state
 
 | Home Screen | New Tasks | Done Tasks | Archived Tasks |
 |------------|----------|-----------|---------------|
-| ![Home Screen](screenshots/home_screen.png) | ![New Tasks](screenshots/new_tasks_screen.png) | ![Done Tasks](screenshots/done_tasks_screen.png) | ![Archived Tasks](screenshots/archived_tasks_screen.png) |
+| ![Home Screen](screenshots/home_screen.jpg) | ![New Tasks](screenshots/new_tasks_screen.jpg) | ![Done Tasks](screenshots/done_tasks_screen.jpg) | ![Archived Tasks](screenshots/archived_tasks_screen.jpg) |
 
 ## 🛠 Installation & Setup
 
