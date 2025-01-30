@@ -87,10 +87,6 @@ Contributions are **welcome**! If you’d like to contribute:
 4. Push to the branch (`git push origin feature-branch`).
 5. Open a **Pull Request**.
 
-## 📜 License
-
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
-
 ---
 
 🌟 **Enjoy using the Todo App! If you like it, give it a ⭐ on GitHub!**
